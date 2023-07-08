@@ -3,10 +3,11 @@ A Data cleaning project with SQL on New York Airbnb 2019 dataset
 
 The main goal of this project is to clean the dataset using SQL.
 
-1.Deleting redundant collumns
-2.Dropping duplicates
-3.Cleaning individual columns 
-4.Remove the NaN valus from database
+1.	Deleting redundant columns
+2.	Dropping duplicates
+3.	Cleaning individual columns
+4.	Remove the NaN values from database
+
 
 ### Dashboard:
 
